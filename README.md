@@ -1,5 +1,5 @@
 ### Hello, incrementalist.
-I'm ❄ **Snowbank** ❄(he/him). <br>
+I'm ❄**Snowbank**❄(he/him). <br>
 My username is Neigebank because Snowbank also exists.
 I like playing incremental games which is why I'm currently developing one. You'll see that the only repo on my profile that isn't archived is the one I'm working on (Raisematter).
 
