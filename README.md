@@ -1,6 +1,8 @@
 ### Hello, incrementalist.
-<b>I'm Snowbank (Neigebank if you wanna act french).</b>
-
+I'm **Snowbank** (he/him).</b>
+My username is Neigebank because Snowbank also exists.
+I like to make chiptune music using a handy program called FamiTracker. But I also like playing incremental games.
+Which is why I'm developing one.
 <!--
 **Neigebank/Neigebank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
