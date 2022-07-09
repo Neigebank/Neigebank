@@ -1,9 +1,9 @@
 ### Hello, incrementalist.
 I'm ❄**Snowbank**❄(he/him). <br>
-My username is Neigebank because Snowbank also exists.
-I like playing incremental games which is why I'm currently developing one. You'll see that the only repo on my profile that isn't archived is the one I'm working on (Raisematter).
-
-Chat with me on Discord: Snowbank#7979
+My username is Neigebank because Snowbank already exists.
+I like playing incremental games which is why I'm currently developing one. You'll see that the only repo on my profile that isn't archived is the one I'm working on (Raisematter). I would love to make it an open-source incremental game, but I'm afraid people will say the code is badly written (as I think it is).
+<br>
+Chat with me on Discord if you want: Snowbank#7979
 <!--
 **Neigebank/Neigebank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
