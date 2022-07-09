@@ -1,5 +1,5 @@
 ### Hello, incrementalist.
-# I'm Snowbank (Neigebank if you wanna act french).
+<b>I'm Snowbank (Neigebank if you wanna act french).</b>
 
 <!--
 **Neigebank/Neigebank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
