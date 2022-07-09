@@ -1,5 +1,5 @@
 ### Hello, incrementalist.
-I'm **Snowbank** (he/him).</b>
+I'm **Snowbank** (he/him). <br>
 My username is Neigebank because Snowbank also exists.
 I like to make chiptune music using a handy program called FamiTracker. But I also like playing incremental games.
 Which is why I'm developing one.
